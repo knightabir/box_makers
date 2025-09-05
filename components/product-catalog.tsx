@@ -217,7 +217,7 @@ export function ProductCatalog({ products }: ProductCatalogProps) {
           </label>
           <Slider
             value={priceRange}
-            onValueChange={setPriceRange}
+            onValueChange={(value: number[]) => setPriceRange([value[0], value[1]])}
             max={50}
             min={0}
             step={0.25}

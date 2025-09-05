@@ -34,6 +34,8 @@ interface FormData {
   agreeToPrivacy: boolean
 }
 
+type FormErrors = Omit<Partial<FormData>, "agreeToPrivacy"> & { agreeToPrivacy?: string }
+
 const productCategories = [
   "Custom Packaging Boxes",
   "Jewelry Boxes",
@@ -67,10 +69,10 @@ export function InquiryModal({ children, defaultCategory, defaultProduct }: Inqu
     contactMethod: "Email",
     agreeToPrivacy: false,
   })
-  const [errors, setErrors] = useState<Partial<FormData>>({})
+  const [errors, setErrors] = useState<FormErrors>({})
 
   const validateForm = () => {
-    const newErrors: Partial<FormData> = {}
+    const newErrors: FormErrors = {}
 
     if (!formData.fullName.trim()) newErrors.fullName = "Full name is required"
     if (!formData.email.trim()) newErrors.email = "Email is required"
@@ -87,7 +89,7 @@ export function InquiryModal({ children, defaultCategory, defaultProduct }: Inqu
 
   const handleInputChange = (field: keyof FormData, value: string | boolean) => {
     setFormData((prev) => ({ ...prev, [field]: value }))
-    if (errors[field]) {
+    if (errors[field as keyof FormErrors]) {
       setErrors((prev) => ({ ...prev, [field]: undefined }))
     }
   }
