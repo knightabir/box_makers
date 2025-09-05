@@ -1,8 +1,8 @@
 import { type NextRequest, NextResponse } from "next/server"
-import nodemailer from "nodemailer"
+import nodemailer from "nodemailer";
 
 // Email configuration
-const transporter = nodemailer.createTransporter({
+const transporter = nodemailer.createTransport({
   host: process.env.SMTP_HOST || "smtp.gmail.com",
   port: Number.parseInt(process.env.SMTP_PORT || "587"),
   secure: false, // true for 465, false for other ports
