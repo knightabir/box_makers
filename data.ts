@@ -11,9 +11,9 @@ export const products = [
         size: "Small",
         price: 25,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Jewelry+Box+1",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Jewelry+Box+2",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Jewelry+Box+3",
+            "https://image.made-in-china.com/202f0j00gEZqcvnIEApL/Premium-White-Leather-Jewellery-Box-Proposal-Ring-Box-Wedding-Diamond-Ring-Box-Necklace-Box-Bracelet-Box-Dr-Jewellery-Box.webp",
+            "https://image.made-in-china.com/202f0j00gTKobNOclAuP/Premium-White-Leather-Jewellery-Box-Proposal-Ring-Box-Wedding-Diamond-Ring-Box-Necklace-Box-Bracelet-Box-Dr-Jewellery-Box.webp",
+            "https://image.made-in-china.com/318f0j00IEUfTRpyThrO/4%E6%9C%8811%E6%97%A5+%283%29.mp4.webp",
         ],
         features: [
             "Velvet Interior",
@@ -58,8 +58,8 @@ export const products = [
         size: "Medium",
         price: 30,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Jewelry+Box+4",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Jewelry+Box+5",
+            "https://5.imimg.com/data5/SELLER/Default/2025/6/515842966/OZ/KU/WX/47042091/pendant-dollar-tray-250x250.jpeg",
+            "https://5.imimg.com/data5/NI/RU/DD/SELLER-3024835/earring-jewelry-display-tray-250x250.jpg",
         ],
         features: [
             "Leather Exterior",
@@ -101,8 +101,8 @@ export const products = [
         size: "Large",
         price: 2.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Shipping+Box+1",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Shipping+Box+2",
+            "https://www.qinprinting.com/wp-content/uploads/2021/02/Custom-Printed-Boxes-Can-Boost-Your-Business.jpg",
+            "https://www.epackprinting.com/wp-content/uploads/2024/06/Order-Custom-Folding-Cartons-Paperboard-Boxes-_-Epackprinting.jpg",
         ],
         features: [
             "Custom Branding",
@@ -143,7 +143,8 @@ export const products = [
         size: "Extra Large",
         price: 4.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Shipping+Box+3",
+            "https://5.imimg.com/data5/DE/ZI/CD/SELLER-4562344/corrugated-storage-box-500x500.jpg",
+            "https://cpimg.tistatic.com/07365865/b/4/Heavy-Duty-Shipping-Carton-Box.jpg"
         ],
         features: [
             "Heavy Duty",
@@ -185,8 +186,8 @@ export const products = [
         size: "Medium",
         price: 15,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Gift+Box+1",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Gift+Box+2",
+            "https://confettigifts.in/cdn/shop/products/so-gorgeous-gift-box_3.jpg?v=1745406565",
+            "https://www.boxupgifting.com/cdn/shop/products/DSC08699_800x.jpg?v=1729162087",
         ],
         features: [
             "Magnetic Closure",
@@ -228,7 +229,8 @@ export const products = [
         size: "Medium",
         price: 35,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Gift+Box+3",
+            "https://www.jadedpalates.com/cdn/shop/products/WineTastingGiftBox_800x.png?v=1680709631",
+            "https://sugarcoatit.com.au/wp-content/uploads/2022/10/Wine-and-Choc-1.jpg"
         ],
         features: [
             "Wooden Construction",
@@ -270,7 +272,8 @@ export const products = [
         size: "Small",
         price: 0.75,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Food+Container+1",
+            "https://media.istockphoto.com/id/185094538/photo/recycled-containers-to-go.jpg?s=612x612&w=0&k=20&c=bVZEu7OofPp8cWho0fi8T67YtmwJ3OYJFxSvuRCcHMM=",
+            "https://cdnimg.webstaurantstore.com/images/products/large/85544/1130718.jpg"
         ],
         features: [
             "Leak Proof",
@@ -312,7 +315,8 @@ export const products = [
         size: "Large",
         price: 1.2,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Food+Container+2",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNzG-T2gUGm--qBJJnk_9ro2XTBno6T0mTA1hZniF-DYri9xFfya06TP6-IyEjtPi7Wo&usqp=CAU",
+            "https://www.rewardhospitality.com.au/Images/ProductImages/Medium/3415106-3415107-3415108-3415109-3445730-3445732-3415112-lifestyle1.jpg"
         ],
         features: [
             "Grease Resistant",
@@ -354,7 +358,8 @@ export const products = [
         size: "Small",
         price: 3.25,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Cosmetic+Box+1",
+            "https://www.metrilo.com/blog/wp-content/uploads/2019/11/beauty-products-packaging.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbffRjer0wR-rxg4BbGaG87u6yoYVGdQpPNSGSvHhsIJOzjGk654ZVjRjmU67HMN4HO0&usqp=CAU"
         ],
         features: [
             "Window Cutout",
@@ -395,8 +400,8 @@ export const products = [
         size: "Medium",
         price: 6.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Cosmetic+Box+1",
-            "https://dummyimage.com/400x400/cccccc/000000&text=Cosmetic+Box+2",
+            "https://rigidboxes.in/wp-content/uploads/2024/09/premium-perfume-packaging-boxes-1024x585.jpg",
+            "https://www.markson.in/wp-content/uploads/2025/07/New_Luxury_Perfume_Boxes_Latest_price_Markson_India.webp"
         ],
         features: [
             "Rigid Construction",
@@ -438,7 +443,8 @@ export const products = [
         size: "Medium",
         price: 8.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Electronics+Case+1",
+            "https://images-platform.99static.com//ENIN_N6vXyNrcyf43LgffGVWzqg=/0x0:1000x1000/fit-in/500x500/99designs-contests-attachments/93/93564/attachment_93564706",
+            "https://www.gprinting.com/hubfs/electronics%20packaging.png"
         ],
         features: [
             "Shock Absorbing",
@@ -479,7 +485,8 @@ export const products = [
         size: "Small",
         price: 2.8,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Electronics+Case+2",
+            "https://www.zenpack.us/wp-content/smush-webp/2022/03/consumer_electronic_01.jpg.webp",
+            "https://lh3.googleusercontent.com/proxy/yLOU4UN2w2XjBj9ET_ssWYMKrnZ65ZZAxaPFxLlqMx_1-jQiziTVPo0wyrr-Js4fpiUY780iWBmQUGIHxz3x4ivgBqVLGju0YvOwJ0nRJDVVqzye4qgUHukAREJ2"
         ],
         features: [
             "Custom Printing",
@@ -521,7 +528,8 @@ export const products = [
         size: "Large",
         price: 12,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Retail+Box+1",
+            "https://www.weprintboxes.com/wp-content/uploads/2024/08/retail-packaging.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNORFgT9YjlevZ68adYckR-xpsYJGk1VfBVHDWWqCXlOaexllJjy-gri5Wb52-PdbQ1zw&usqp=CAU"
         ],
         features: [
             "Display Window",
@@ -562,7 +570,8 @@ export const products = [
         size: "Medium",
         price: 7.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Retail+Box+2",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnemu_I2RWqSIkmyKFjDgXibItaX8OW9FUvg&s",
+            "https://mir-s3-cdn-cf.behance.net/projects/404/61d4a0109938829.Y3JvcCwzODE1LDI5ODQsNDI1LDMwMg.jpg"
         ],
         features: [
             "Countertop Size",
@@ -603,7 +612,8 @@ export const products = [
         size: "Medium",
         price: 3.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Custom+Box+1",
+            "https://companybox.com/wp-content/uploads/2021/04/CB_Mailers_Feature_01.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInnBEGgRmz0ydijF5YO9IlMUnxn2dLckZOCIoW8eMN_Ot60cv8P41R5q6XMnmkAz3omQ&usqp=CAU"
         ],
         features: [
             "Full Color Printing",
@@ -644,7 +654,8 @@ export const products = [
         size: "Large",
         price: 9.5,
         images: [
-            "https://dummyimage.com/400x400/cccccc/000000&text=Custom+Box+2",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT283saSpU9wXvQEUB3CDMVfksl3g66rTwDMQ&s",
+            "https://5.imimg.com/data5/SELLER/Default/2024/6/428428779/BM/XZ/UL/8445337/luxury-magnetic-rigid-gifts-box.jpg"
         ],
         features: [
             "Magnetic Closure",
@@ -683,56 +694,56 @@ export const categories = [
         icon: Package,
         title: "Custom Packaging Boxes",
         description: "Tailored packaging solutions for your unique business needs",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Custom+Packaging+Boxes",
+        image: "https://bellprinters.com/wp-content/uploads/2022/02/Luxury-wallet-packaging-box-wallet-box-packaging-leather-wallet-packaging-DM0544-2.jpg",
         href: "/categories/custom-packaging",
     },
     {
         icon: Gem,
         title: "Jewelry Boxes",
         description: "Elegant boxes designed to showcase precious jewelry and accessories",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Jewelry+Boxes",
+        image: "https://img.freepik.com/free-vector/realistic-3d-jewelry-arrangement_52683-69819.jpg?semt=ais_hybrid&w=740&q=80",
         href: "/categories/jewelry-boxes",
     },
     {
         icon: Gift,
         title: "Gift Boxes",
         description: "Beautiful presentation boxes for special occasions and corporate gifts",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Gift+Boxes",
+        image: "https://www.bigsmall.in/cdn/shop/files/MG_5047_1200x1200.jpg?v=1715163835",
         href: "/categories/gift-boxes",
     },
     {
         icon: Truck,
         title: "Shipping Boxes",
         description: "Durable corrugated boxes for safe product transportation",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Shipping+Boxes",
+        image: "https://images-cdn.ubuy.co.in/633fff58ffb33428043767b3-boshahai-30-pack-8x6x3-inches-black.jpg",
         href: "/categories/shipping-boxes",
     },
     {
         icon: UtensilsCrossed,
         title: "Food Packaging",
         description: "Food-safe packaging solutions for restaurants and food businesses",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Food+Packaging",
+        image: "https://www.sparrowprintpack.com/spp/food-box-13.jpg",
         href: "/categories/food-packaging",
     },
     {
         icon: Sparkles,
         title: "Cosmetic Boxes",
         description: "Premium packaging for beauty and cosmetic products",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Cosmetic+Boxes",
+        image: "https://packagingbee.com/wp-content/uploads/2023/01/Wholesale-Cosmetic-Boxes.jpg",
         href: "/categories/cosmetic-boxes",
     },
     {
         icon: Zap,
         title: "Electronic Packaging",
         description: "Protective packaging for electronics and tech products",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Electronic+Packaging",
+        image: "https://www.logopeople.in/wp-content/uploads/2017/03/Creative-electronic-products-packaging-design-India-5.jpg",
         href: "/categories/electronic-packaging",
     },
     {
         icon: ShoppingBag,
         title: "Retail Boxes",
         description: "Eye-catching retail packaging to enhance your brand presence",
-        image: "https://dummyimage.com/400x300/cccccc/000000&text=Retail+Boxes",
+        image: "https://pandascientist.com/wp-content/uploads/2023/08/Custom-Retail-Boxes.webp",
         href: "/categories/retail-boxes",
     },
 ]

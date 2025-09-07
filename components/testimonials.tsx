@@ -49,8 +49,8 @@ const testimonials = [
 ]
 
 const clientLogos = [
-  { name: "TechCorp", logo: "/placeholder.svg?height=40&width=120" },
-  { name: "Jewelry Plus", logo: "/placeholder.svg?height=40&width=120" },
+  { name: "TechCorp", logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fBiKpo0EzXc9djIA-ZNV3QiuVs8liKr13g&s" },
+  { name: "Jewelry Plus", logo: "https://res.cloudinary.com/vistaprint/images/c_scale,w_448,h_448,dpr_2/f_auto,q_auto/v1706191816/ideas-and-advice-prod/blogadmin/Screenshot-2024-01-25-at-15.09.28/Screenshot-2024-01-25-at-15.09.28.png?_i=AA" },
   { name: "Food Express", logo: "/placeholder.svg?height=40&width=120" },
   { name: "Beauty Brand", logo: "/placeholder.svg?height=40&width=120" },
   { name: "Retail Pro", logo: "/placeholder.svg?height=40&width=120" },
@@ -158,7 +158,7 @@ export function Testimonials() {
         </div>
 
         {/* Client Logos */}
-        <div className="border-t border-border pt-12">
+        {/* <div className="border-t border-border pt-12">
           <h3 className="text-center text-lg font-semibold text-foreground mb-8">Trusted by Leading Brands</h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 items-center opacity-60">
             {clientLogos.map((client, index) => (
@@ -171,7 +171,7 @@ export function Testimonials() {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )

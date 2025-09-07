@@ -62,15 +62,16 @@ export function HeroSection() {
                   <h1 className="text-4xl md:text-6xl font-bold mb-4 text-balance">{slide.title}</h1>
                   <p className="text-xl md:text-2xl mb-8 text-pretty opacity-90">{slide.subtitle}</p>
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                    <InquiryModal>
+                    {/* <InquiryModal>
                       <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
                         {slide.cta}
                       </Button>
-                    </InquiryModal>
+                    </InquiryModal> */}
                     <Button
                       size="lg"
                       variant="outline"
-                      className="border-white text-white hover:bg-white hover:text-foreground bg-transparent"
+                      className="border-white text-white hover:bg-white hover:text-foreground bg-transparent hover:cursor-pointer"
+                      onClick={() => window.location.href = '/products'}
                     >
                       Browse Products
                     </Button>
